@@ -594,3 +594,15 @@ a) Calcule l'image de 2 et l'image de −1.
 b) Trouve l'antécédent de 9.
 
 🎉 **Bravo pour cette séance !**
+
+
+
+----------------------
+a) LMN est rectangle en M, donc l'hypoténuse est [LN]. D'après le théorème de Pythagore :
+LN² = LM² + MN²
+10² = 6² + MN²
+100 = 36 + MN²
+100 - 36 = MN²
+
+MN² = 100 − 36 = 64
+MN = √64 = **8 cm**
